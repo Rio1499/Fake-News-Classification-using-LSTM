@@ -28,14 +28,3 @@ The Jupyter Notebook guides users through the process of:
 - Evaluating the model's performance.
 - Making predictions on new data.
 
-## Dataset
-
-The dataset used for this project may be mentioned here if not included in the repository. Ensure proper attribution to the dataset source.
-
-## Contributions
-
-Contributions to this project are welcome! If you'd like to improve the classifier or add new features, feel free to fork the repository and create a pull request.
-
-## License
-
-Specify the license under which the code is shared, if any.
